@@ -26,14 +26,6 @@
 
             Exemplos:
             | quantidade | mensagem                      |
-            | 1          | "Seguindo para pagamento"     |
-            | 2          | "Seguindo para pagamento"     |
-            | 3          | "Seguindo para pagamento"     |
-            | 4          | "Seguindo para pagamento"     |
-            | 5          | "Seguindo para pagamento"     |
-            | 6          | "Seguindo para pagamento"     |
-            | 7          | "Seguindo para pagamento"     |
-            | 8          | "Seguindo para pagamento"     |
             | 9          | "Seguindo para pagamento"     |
             | 10         | "Seguindo para pagamento"     |
             | 11         | "Limite de 10 itens excedido" |
